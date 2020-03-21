@@ -1,18 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f0e45a45-d0fc-4692-9929-b1149cf9acc4" name="Default Changelist" comment="" />
+    <list default="true" id="f0e45a45-d0fc-4692-9929-b1149cf9acc4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/php-test-framework.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker-entrypoint.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nginx.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Modules/Common/Conf/db.php" beforeDir="false" afterPath="$PROJECT_DIR$/Modules/Common/Conf/db.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Modules/Seller/Conf/db.php" beforeDir="false" afterPath="$PROJECT_DIR$/Modules/Seller/Conf/db.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings">
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
     <execution>
       <executable />
     </execution>
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 5.6">
+    <include_path>
+      <path value="" />
+    </include_path>
+  </component>
   <component name="ProjectId" id="1ZI2FKCHJtw8xKMSdlLPNgCcqa6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -20,8 +61,67 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="php.test.frameworks.configurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="PHPUnit.php">
+    <configuration name="index.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/php/php/index.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="install.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/php/php/install.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="php" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner directory="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Dockerfile" type="docker-deploy" factoryName="dockerfile" temporary="true" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="buildCliOptions" value="" />
+          <option name="command" value="" />
+          <option name="containerName" value="mayi" />
+          <option name="entrypoint" value="" />
+          <option name="imageTag" value="" />
+          <option name="commandLineOptions" value="" />
+          <option name="sourceFilePath" value="Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHPUnit.php" />
+        <item itemvalue="JavaScript Debug.index.php" />
+        <item itemvalue="JavaScript Debug.install.php" />
+        <item itemvalue="Docker.Dockerfile" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -33,11 +133,107 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584512182959</updated>
-      <workItem from="1584512184145" duration="299000" />
+      <workItem from="1584512184145" duration="1560000" />
+      <workItem from="1584515563632" duration="1725000" />
+      <workItem from="1584517546940" duration="4082000" />
+      <workItem from="1584562245319" duration="1802000" />
+      <workItem from="1584566196207" duration="207000" />
+      <workItem from="1584566529167" duration="564000" />
+      <workItem from="1584749509833" duration="416000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1072" y="501" key="#CLI_Interpreters" timestamp="1584565865160">
+      <screen x="0" y="23" width="2560" height="1333" />
+    </state>
+    <state x="1072" y="501" key="#CLI_Interpreters/-1440.382.1440.877/0.23.2560.1333@-1440.382.1440.877" timestamp="1584565865160" />
+    <state x="843" y="428" key="#CLI_Interpreters/-1440.382.1440.877/0.23.2560.1333@0.23.2560.1333" timestamp="1584565629801" />
+    <state x="843" y="428" key="#CLI_Interpreters/0.23.2560.1333@0.23.2560.1333" timestamp="1584522849343" />
+    <state x="962" y="262" key="#Dockerfile" timestamp="1584566335398">
+      <screen x="0" y="23" width="2560" height="1333" />
+    </state>
+    <state x="962" y="262" key="#Dockerfile/-1440.382.1440.877/0.23.2560.1333@0.23.2560.1333" timestamp="1584566335398" />
+    <state x="1265" y="355" key="#PHP" timestamp="1584515278192">
+      <screen x="0" y="23" width="2560" height="1333" />
+    </state>
+    <state x="1265" y="355" key="#PHP/0.23.2560.1333@0.23.2560.1333" timestamp="1584515278192" />
+    <state x="1042" y="454" key="#Test_Frameworks" timestamp="1584515431284">
+      <screen x="0" y="23" width="2560" height="1333" />
+    </state>
+    <state x="1042" y="454" key="#Test_Frameworks/0.23.2560.1333@0.23.2560.1333" timestamp="1584515431284" />
+    <state x="1245" y="420" key="#php" timestamp="1584515280721">
+      <screen x="0" y="23" width="2560" height="1333" />
+    </state>
+    <state x="1245" y="420" key="#php/0.23.2560.1333@0.23.2560.1333" timestamp="1584515280721" />
+    <state width="2244" height="230" key="GridCell.Tab.0.bottom" timestamp="1584567251599">
+      <screen x="0" y="23" width="2560" height="1333" />
+    </state>
+    <state width="2244" height="230" key="GridCell.Tab.0.bottom/-1440.382.1440.877/0.23.2560.1333@0.23.2560.1333" timestamp="1584567251599" />
+    <state width="1358" height="271" key="GridCell.Tab.0.bottom/0.23.2560.1333@0.23.2560.1333" timestamp="1584523473749" />
+    <state width="2244" height="230" key="GridCell.Tab.0.center" timestamp="1584567251598">
+      <screen x="0" y="23" width="2560" height="1333" />
+    </state>
+    <state width="2244" height="230" key="GridCell.Tab.0.center/-1440.382.1440.877/0.23.2560.1333@0.23.2560.1333" timestamp="1584567251598" />
+    <state width="1358" height="271" key="GridCell.Tab.0.center/0.23.2560.1333@0.23.2560.1333" timestamp="1584523473748" />
+    <state width="2244" height="230" key="GridCell.Tab.0.left" timestamp="1584567251597">
+      <screen x="0" y="23" width="2560" height="1333" />
+    </state>
+    <state width="2244" height="230" key="GridCell.Tab.0.left/-1440.382.1440.877/0.23.2560.1333@0.23.2560.1333" timestamp="1584567251597" />
+    <state width="1358" height="271" key="GridCell.Tab.0.left/0.23.2560.1333@0.23.2560.1333" timestamp="1584523473748" />
+    <state width="2244" height="230" key="GridCell.Tab.0.right" timestamp="1584567251599">
+      <screen x="0" y="23" width="2560" height="1333" />
+    </state>
+    <state width="2244" height="230" key="GridCell.Tab.0.right/-1440.382.1440.877/0.23.2560.1333@0.23.2560.1333" timestamp="1584567251599" />
+    <state width="1358" height="271" key="GridCell.Tab.0.right/0.23.2560.1333@0.23.2560.1333" timestamp="1584523473749" />
+    <state width="2244" height="409" key="GridCell.Tab.1.bottom" timestamp="1584566403068">
+      <screen x="0" y="23" width="2560" height="1333" />
+    </state>
+    <state width="2244" height="409" key="GridCell.Tab.1.bottom/-1440.382.1440.877/0.23.2560.1333@0.23.2560.1333" timestamp="1584566403068" />
+    <state width="1358" height="334" key="GridCell.Tab.1.bottom/0.23.2560.1333@0.23.2560.1333" timestamp="1584517543687" />
+    <state width="2244" height="409" key="GridCell.Tab.1.center" timestamp="1584566403068">
+      <screen x="0" y="23" width="2560" height="1333" />
+    </state>
+    <state width="2244" height="409" key="GridCell.Tab.1.center/-1440.382.1440.877/0.23.2560.1333@0.23.2560.1333" timestamp="1584566403068" />
+    <state width="1358" height="334" key="GridCell.Tab.1.center/0.23.2560.1333@0.23.2560.1333" timestamp="1584517543686" />
+    <state width="2244" height="409" key="GridCell.Tab.1.left" timestamp="1584566403067">
+      <screen x="0" y="23" width="2560" height="1333" />
+    </state>
+    <state width="2244" height="409" key="GridCell.Tab.1.left/-1440.382.1440.877/0.23.2560.1333@0.23.2560.1333" timestamp="1584566403067" />
+    <state width="1358" height="334" key="GridCell.Tab.1.left/0.23.2560.1333@0.23.2560.1333" timestamp="1584517543686" />
+    <state width="2244" height="409" key="GridCell.Tab.1.right" timestamp="1584566403068">
+      <screen x="0" y="23" width="2560" height="1333" />
+    </state>
+    <state width="2244" height="409" key="GridCell.Tab.1.right/-1440.382.1440.877/0.23.2560.1333@0.23.2560.1333" timestamp="1584566403068" />
+    <state width="1358" height="334" key="GridCell.Tab.1.right/0.23.2560.1333@0.23.2560.1333" timestamp="1584517543686" />
+    <state x="1276" y="341" key="SettingsEditor" timestamp="1584566057974">
+      <screen x="0" y="23" width="2560" height="1333" />
+    </state>
+    <state x="1276" y="341" key="SettingsEditor/-1440.382.1440.877/0.23.2560.1333@-1440.382.1440.877" timestamp="1584565876077" />
+    <state x="1276" y="341" key="SettingsEditor/-1440.382.1440.877/0.23.2560.1333@0.23.2560.1333" timestamp="1584566057974" />
+    <state x="668" y="366" key="SettingsEditor/0.23.2560.1333@0.23.2560.1333" timestamp="1584522853486" />
+    <state x="1093" y="546" key="com.intellij.ide.util.TipDialog" timestamp="1584749510763">
+      <screen x="0" y="23" width="2560" height="1333" />
+    </state>
+    <state x="1093" y="546" key="com.intellij.ide.util.TipDialog/-1440.382.1440.877/0.23.2560.1333@0.23.2560.1333" timestamp="1584749510763" />
+    <state x="188" y="23" key="com.jetbrains.php.config.phpInfo.PhpInfo.PhpInfoDialog" timestamp="1584516167096">
+      <screen x="0" y="23" width="2560" height="1333" />
+    </state>
+    <state x="188" y="23" key="com.jetbrains.php.config.phpInfo.PhpInfo.PhpInfoDialog/0.23.2560.1333@0.23.2560.1333" timestamp="1584516167096" />
+    <state x="512" y="593" width="790" height="612" key="find.popup" timestamp="1584515167781">
+      <screen x="0" y="23" width="2560" height="1333" />
+    </state>
+    <state x="512" y="593" width="790" height="612" key="find.popup/0.23.2560.1333@0.23.2560.1333" timestamp="1584515167781" />
+    <state x="1088" y="433" width="670" height="676" key="search.everywhere.popup" timestamp="1584557922447">
+      <screen x="0" y="23" width="2560" height="1333" />
+    </state>
+    <state x="1088" y="433" width="670" height="676" key="search.everywhere.popup/-1440.382.1440.877/0.23.2560.1333@0.23.2560.1333" timestamp="1584557922447" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/php$index_php.dat" NAME="index.php Coverage Results" MODIFIED="1584566670742" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="WipCoverageRunner" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/php@php.xml" NAME="php Coverage Results" MODIFIED="1584516738331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="PhpCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
