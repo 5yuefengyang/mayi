@@ -75,6 +75,7 @@ RUN wget http://nginx.org/download/nginx-${NGINX_V}.tar.gz && \
     --with-http_gunzip_module \
     --with-http_gzip_static_module \
     --with-http_stub_status_module \
+    --without-http_rewrite_module \
     --with-stream \
     --with-stream_ssl_module && \
     make -j 4 && make install && \
