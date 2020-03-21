@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f0e45a45-d0fc-4692-9929-b1149cf9acc4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/nginx.conf" beforeDir="false" afterPath="$PROJECT_DIR$/nginx.conf" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -132,7 +131,7 @@
       <workItem from="1584562245319" duration="1802000" />
       <workItem from="1584566196207" duration="207000" />
       <workItem from="1584566529167" duration="564000" />
-      <workItem from="1584749509833" duration="3150000" />
+      <workItem from="1584749509833" duration="3335000" />
     </task>
     <servers />
   </component>
