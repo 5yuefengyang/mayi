@@ -75,14 +75,14 @@ RUN wget http://nginx.org/download/nginx-${NGINX_V}.tar.gz && \
     --with-http_gunzip_module \
     --with-http_gzip_static_module \
     --with-http_stub_status_module \
-    --without-http_rewrite_module \
+    --with-pcre \
     --with-stream \
     --with-stream_ssl_module && \
-    make -j 4 && make install && \
+    make && make install && \
     rm -rf /usr/local/nginx/html/* && \
     echo "ok" >> /usr/local/nginx/html/status.html && \
     echo "<?php echo ok;?>" >> /usr/local/nginx/html/status.php && \
-    cd / && rm -rf nginx*
+    cd /
 
 COPY nginx.conf /usr/local/nginx/conf
 ENV PATH $PATH:/usr/local/nginx/sbin

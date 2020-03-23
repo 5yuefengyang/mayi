@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f0e45a45-d0fc-4692-9929-b1149cf9acc4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nginx.conf" beforeDir="false" afterPath="$PROJECT_DIR$/nginx.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -131,7 +131,7 @@
       <workItem from="1584562245319" duration="1802000" />
       <workItem from="1584566196207" duration="207000" />
       <workItem from="1584566529167" duration="564000" />
-      <workItem from="1584749509833" duration="3335000" />
+      <workItem from="1584749509833" duration="10137000" />
     </task>
     <servers />
   </component>
@@ -215,9 +215,10 @@
       <screen x="0" y="23" width="2560" height="1333" />
     </state>
     <state x="188" y="23" key="com.jetbrains.php.config.phpInfo.PhpInfo.PhpInfoDialog/0.23.2560.1333@0.23.2560.1333" timestamp="1584516167096" />
-    <state x="512" y="593" width="790" height="612" key="find.popup" timestamp="1584515167781">
+    <state x="1135" y="572" width="790" height="612" key="find.popup" timestamp="1584939745495">
       <screen x="0" y="23" width="2560" height="1333" />
     </state>
+    <state x="1135" y="572" width="790" height="612" key="find.popup/-1440.382.1440.877/0.23.2560.1333@0.23.2560.1333" timestamp="1584939745495" />
     <state x="512" y="593" width="790" height="612" key="find.popup/0.23.2560.1333@0.23.2560.1333" timestamp="1584515167781" />
     <state x="1088" y="433" width="670" height="676" key="search.everywhere.popup" timestamp="1584557922447">
       <screen x="0" y="23" width="2560" height="1333" />
